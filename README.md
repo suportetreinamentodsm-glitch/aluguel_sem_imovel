@@ -52,7 +52,7 @@
             </p>
             
             <div class="flex flex-col sm:flex-row items-center justify-center gap-4 mb-10">
-                <a href="#oferta" class="w-full sm:w-auto inline-flex items-center justify-center px-8 py-4 bg-gradient-to-r from-gold-500 to-gold-600 hover:from-gold-400 hover:to-gold-500 text-slate-950 font-extrabold text-lg rounded-xl shadow-lg shadow-gold-500/20 transform hover:-translate-y-0.5 transition duration-200">
+                <a href="https://mpago.li/2W9XpQr" class="w-full sm:w-auto inline-flex items-center justify-center px-8 py-4 bg-gradient-to-r from-gold-500 to-gold-600 hover:from-gold-400 hover:to-gold-500 text-slate-950 font-extrabold text-lg rounded-xl shadow-lg shadow-gold-500/20 transform hover:-translate-y-0.5 transition duration-200">
                     🚀 QUERO GARANTIR MEU ACESSO AGORA
                 </a>
             </div>
@@ -86,7 +86,7 @@
                         <span class="text-rose-500 text-xl font-bold">✕</span>
                         <div>
                             <h3 class="font-bold text-white text-sm">Entrada Exorbitante</h3>
-                            <p class="text-xs text-slate-400 mt-1">É preciso acumular R$ 150 mil ou R$ 200 mil só para começar.</p>
+                            <p class="text-xs text-slate-400 mt-1">É preciso acumular R\$ 150 mil ou R\$ 200 mil só para começar.</p>
                         </div>
                     </div>
 
@@ -144,8 +144,8 @@
                     <tbody class="divide-y divide-slate-800 bg-slate-900/60">
                         <tr>
                             <td class="py-4 px-6 font-semibold text-white">Investimento Inicial</td>
-                            <td class="py-4 px-6 text-rose-300">Alto (R$ 100 mil ou mais)</td>
-                            <td class="py-4 px-6 text-emerald-400 font-bold">Mínimo (a partir de ~R$ 10,00)</td>
+                            <td class="py-4 px-6 text-rose-300">Alto (R\$ 100 mil ou mais)</td>
+                            <td class="py-4 px-6 text-emerald-400 font-bold">Mínimo (a partir de ~R\$ 10,00)</td>
                         </tr>
                         <tr>
                             <td class="py-4 px-6 font-semibold text-white">Imposto de Renda</td>
@@ -182,7 +182,7 @@
                     <div class="text-2xl mb-3">📊</div>
                     <h3 class="text-lg font-bold text-white mb-2">Estudo de Caso Comparativo</h3>
                     <p class="text-sm text-slate-400 leading-relaxed">
-                        Análise matemática completa: o que acontece ao investir R$ 200 mil em um apartamento físico versus colocar em uma carteira diversificada de FIIs ao longo dos anos.
+                        Análise matemática completa: o que acontece ao investir R\$ 200 mil em um apartamento físico versus colocar em uma carteira diversificada de FIIs ao longo dos anos.
                     </p>
                 </div>
 
@@ -230,16 +230,16 @@
                 <p class="text-slate-400 text-sm uppercase tracking-wider font-semibold mb-2">Preço Promocional de Lançamento</p>
                 
                 <div class="flex items-center justify-center gap-2 mb-4">
-                    <span class="text-slate-500 line-through text-lg sm:text-2xl">R$ 97,00</span>
-                    <span class="text-4xl sm:text-6xl font-extrabold text-gold-400">R$ 27,00</span>
+                    <span class="text-slate-500 line-through text-lg sm:text-2xl">R\$ 97,00</span>
+                    <span class="text-4xl sm:text-6xl font-extrabold text-gold-400">R\$ 27,00</span>
                 </div>
 
                 <p class="text-slate-300 text-xs sm:text-sm mb-8">
                     Pagamento único. Sem mensalidades ou assinaturas ocultas.
                 </p>
 
-                <!-- CTA Button (Insert your Kiwify/Hotmart Link here) -->
-                <a href="#" class="block w-full py-4 px-6 bg-gradient-to-r from-emerald-500 to-emerald-600 hover:from-emerald-400 hover:to-emerald-500 text-slate-950 font-black text-lg sm:text-xl rounded-xl shadow-lg shadow-emerald-500/20 transform hover:-translate-y-0.5 transition duration-200 mb-6">
+                <!-- CTA Button -->
+                <a href="https://mpago.li/2W9XpQr" class="block w-full py-4 px-6 bg-gradient-to-r from-emerald-500 to-emerald-600 hover:from-emerald-400 hover:to-emerald-500 text-slate-950 font-black text-lg sm:text-xl rounded-xl shadow-lg shadow-emerald-500/20 transform hover:-translate-y-0.5 transition duration-200 mb-6">
                     👉 COMPRAR AGORA COM DESCONTO
                 </a>
 
@@ -277,38 +277,4 @@
 
             <div class="space-y-4">
                 <div class="bg-slate-800/50 p-5 rounded-xl border border-slate-700/50">
-                    <h3 class="font-bold text-white text-base">Preciso de muito dinheiro para começar a investir?</h3>
-                    <p class="text-slate-400 text-sm mt-2">
-                        Não! Essa é uma das maiores vantagens. Existem excelentes cotas de Fundos Imobiliários sendo negociadas entre R$ 10,00 e R$ 100,00.
-                    </p>
-                </div>
-
-                <div class="bg-slate-800/50 p-5 rounded-xl border border-slate-700/50">
-                    <h3 class="font-bold text-white text-base">Como recebo o e-book após o pagamento?</h3>
-                    <p class="text-slate-400 text-sm mt-2">
-                        Assim que o pagamento for confirmado (no Pix/Cartão é instantâneo), você receberá um e-mail com o link de download para baixar o arquivo PDF no seu celular ou computador.
-                    </p>
-                </div>
-
-                <div class="bg-slate-800/50 p-5 rounded-xl border border-slate-700/50">
-                    <h3 class="font-bold text-white text-base">Os rendimentos são mesmo isentos de Imposto de Renda?</h3>
-                    <p class="text-slate-400 text-sm mt-2">
-                        Sim! Pela legislação vigente no Brasil, os dividendos pagos mensalmente por Fundos Imobiliários para pessoas físicas são totalmente isentos de Imposto de Renda.
-                    </p>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Footer -->
-    <footer class="py-8 bg-navy-900 border-t border-slate-800 text-center text-xs text-slate-500 px-4">
-        <p class="max-w-2xl mx-auto mb-2">
-            Aluguel sem Imóvel © Todos os direitos reservados.
-        </p>
-        <p class="max-w-2xl mx-auto text-[10px] text-slate-600">
-            Aviso Legal: Os resultados podem variar de pessoa para pessoa. Este produto tem fins estritamente educacionais e não constitui recomendação direta de compra ou venda de ativos financeiros.
-        </p>
-    </footer>
-
-</body>
-</html>
+                    <h3 class="font-bold text-white text-base">Preciso de muito dinheiro para começar
